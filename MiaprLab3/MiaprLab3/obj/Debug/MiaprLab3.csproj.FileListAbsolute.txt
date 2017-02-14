@@ -1,0 +1,9 @@
+c:\users\sasha\documents\visual studio 2015\Projects\MiaprLab3\MiaprLab3\bin\Debug\MiaprLab3.exe.config
+c:\users\sasha\documents\visual studio 2015\Projects\MiaprLab3\MiaprLab3\bin\Debug\MiaprLab3.exe
+c:\users\sasha\documents\visual studio 2015\Projects\MiaprLab3\MiaprLab3\bin\Debug\MiaprLab3.pdb
+c:\users\sasha\documents\visual studio 2015\Projects\MiaprLab3\MiaprLab3\obj\Debug\MiaprLab3.csprojResolveAssemblyReference.cache
+c:\users\sasha\documents\visual studio 2015\Projects\MiaprLab3\MiaprLab3\obj\Debug\MiaprLab3.MainForm.resources
+c:\users\sasha\documents\visual studio 2015\Projects\MiaprLab3\MiaprLab3\obj\Debug\MiaprLab3.Properties.Resources.resources
+c:\users\sasha\documents\visual studio 2015\Projects\MiaprLab3\MiaprLab3\obj\Debug\MiaprLab3.csproj.GenerateResource.Cache
+c:\users\sasha\documents\visual studio 2015\Projects\MiaprLab3\MiaprLab3\obj\Debug\MiaprLab3.exe
+c:\users\sasha\documents\visual studio 2015\Projects\MiaprLab3\MiaprLab3\obj\Debug\MiaprLab3.pdb
